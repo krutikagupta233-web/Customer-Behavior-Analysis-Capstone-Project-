@@ -1,51 +1,47 @@
-👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
-This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+👨🏻‍💻 𝐂𝐔𝐒𝐓𝐎𝐌𝐄𝐑 𝐁𝐄𝐇𝐀𝐕𝐈𝐎𝐑 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐒𝐓 𝐏𝐎𝐑𝐓𝐅𝐎𝐋𝐈𝐎 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
 
-📌 Project Overview
-The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
+This project showcases a complete, industry-standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional data analysts in modern business environments.
 
-✅ Data Preparation,Modeling & Exploratory Data Analysis (Python): Clean and transform the raw dataset for analysis.
+📌 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐎𝐕𝐄𝐑𝐕𝐈𝐄𝐖
 
-✅ Data Analysis (SQL): Simulate business transactions, and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+The primary objective of this project is to simulate a corporate-grade analytics workflow by covering every critical stage of the data analysis lifecycle.
 
-✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
+🔹 𝟏. 𝐃𝐀𝐓𝐀 𝐏𝐑𝐄𝐏𝐀𝐑𝐀𝐓𝐈𝐎𝐍, 𝐌𝐎𝐃𝐄𝐋𝐈𝐍𝐆 & 𝐄𝐃𝐀 (𝐏𝐘𝐓𝐇𝐎𝐍)
+✔ Data import
+✔ Data cleaning & transformation
+✔ Exploratory Data Analysis
 
-✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/884c2186-0d62-471f-a978-3ba462843b60" />
+🔹 𝟐. 𝐃𝐀𝐓𝐀 𝐀𝐍𝐀𝐋𝐘𝐒𝐈𝐒 (𝐒𝐐𝐋)
+✔ Simulate business transactions
+✔ Customer segmentation
+✔ Loyalty behavior
+✔ Purchase drivers
 
-🛠️ How to Use This Project
-Clone the repository
+🔹 𝟑. 𝐕𝐈𝐒𝐔𝐀𝐋𝐈𝐙𝐀𝐓𝐈𝐎𝐍 & 𝐈𝐍𝐒𝐈𝐆𝐇𝐓𝐒 (𝐏𝐎𝐖𝐄𝐑 𝐁𝐈)
+✔ Interactive dashboard
+✔ Behavioral patterns
+✔ Decision support
 
-Open Customer_Shopping_Behavior_Analysis.ipynb notebook
+🔹 𝟒. 𝐑𝐄𝐏𝐎𝐑𝐓 & 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍
+✔ Project report
+✔ Gamma AI presentation
+✔ Business recommendations
 
-This file contains:
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/19762f61-69f8-4e5d-88d2-807892a6e7ca" />
 
-Data Import
 
-Data exploration
+🛠️ 𝐇𝐎𝐖 𝐓𝐎 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐏𝐑𝐎𝐉𝐄𝐂𝐓
 
-Data cleaning
+📂 Step 1: Clone the repository
+📊 Step 2: Run Python notebook
+🗄️ Step 3: Load data into SQL
+🧮 Step 4: Run SQL queries
+📈 Step 5: Build Power BI dashboard
+📑 Step 6: Create report & presentation
 
-Connection to SQL Database
-
-Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server
-
-Create a database in SQL
-
-Run Python code to load data into SQL database
-
-Open customer_behavior_sql_queries.sql
-
-Answer Business Questions using SQL Queries
-
-Connect the SQL Database to Power BI
-
-Open customer_behavior_dashboard.pbix
-
-Create interactive dashboard in Power BI
-
-Create Project Report and Presentation
-
-Create project report
-
-Build presentation deck using Gamma AI
+🎯 𝐊𝐄𝐘 𝐒𝐊𝐈𝐋𝐋𝐒 𝐃𝐄𝐌𝐎𝐍𝐒𝐓𝐑𝐀𝐓𝐄𝐃
+✅ Python
+✅ SQL
+✅ Power BI
+✅ Data storytelling
+✅ Business analytics
